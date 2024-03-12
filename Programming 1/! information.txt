@@ -1,0 +1,11 @@
+Programming 1 is a High School Dual Enrollment class taught as a prerequsite for AP CSA. 
+This class is focused on C and is taught by Mrs. KiernanBell, a professor at UMASS Lowell.
+
+
+Description of Programming 1:
+Programming 1 is a Dual Enrollment 4 credit lab course with Middlesex Community College. This course is
+a project based course designed to provide students with an introduction to the processing of information by
+the computer, computer logic, memory, input/output processing, and programming in the C/C++ language.
+This course emphasizes the programming problem-solving process, problem organization, algorithms, coding,
+debugging and the elements of good programming style. Programming problems will include a wide variety
+of numeric and non-numeric applications.
