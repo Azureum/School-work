@@ -1,6 +1,6 @@
 /******************************************************************************
 
-Name: Matthew Mei
+Name: matt
 Date: 2/16/24
 Purpose: Create an app which translates a users text into the pig latin equivalant.
            __,---.__
